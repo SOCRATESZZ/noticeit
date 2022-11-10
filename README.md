@@ -12,7 +12,10 @@ place in the college.
 5) Students receive important information in an orderly fashion with 
 fewer cases of overlooked information.
 
-**motivation** behind this project came from the issues faced by the 
+
+**Motivation**
+
+motivation behind this project came from the issues faced by the 
 class representatives and the faculty of our own college in circulating important 
 information among the students of our own college. At times the important 
 notices to be circulated among students get lost in the chaos of social media 

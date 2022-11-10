@@ -1,6 +1,6 @@
 # noticeit
 
-https://user-images.githubusercontent.com/86411507/201143821-8c61606e-606a-4452-a541-ac9951f5b06c.png
+![image](https://user-images.githubusercontent.com/86411507/201147473-df47361b-9afd-4328-8e22-47dc9a0c411b.png)
 
 ****Objective of this project is to build an online platform (application) for 
 students and faculty of the college.****

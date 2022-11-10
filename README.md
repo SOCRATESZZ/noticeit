@@ -12,6 +12,10 @@ place in the college.
 5) Students receive important information in an orderly fashion with 
 fewer cases of overlooked information.
 
+![image](https://user-images.githubusercontent.com/86411507/201150829-f6cfac1f-42a3-4e15-88e9-639e6c85efe8.png)
+![image](https://user-images.githubusercontent.com/86411507/201150944-aa4946d4-7833-4bcc-980f-e7d36a37f727.png)
+![image](https://user-images.githubusercontent.com/86411507/201151076-f763d31e-90cc-45d8-92b8-a75fb9540aad.png)
+![image](https://user-images.githubusercontent.com/86411507/201151214-97b2d4b6-8c58-4855-8786-84545039c2c0.png)
 
 **Motivation**
 
